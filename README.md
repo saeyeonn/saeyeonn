@@ -23,7 +23,7 @@
 
 #### I'm 42 SEOUL 8th Cardet.
 #### I'm the deputy head of the IT department of the SeoulTech Total Student Council. 
-#### I am working as a Backend Developer of the SeoulTech Total Student Council App Development TF.
+#### m working as a Backend Developer of the SeoulTech Total Student Council App Development TF.
 
 <br>
 <br>
