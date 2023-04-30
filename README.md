@@ -13,7 +13,7 @@
 #### Hi, I am Saeyeon Lim.     
 #### My major is ITM (IT and Management) in SEOULTECH.
 #### My major includes Data Science, Programming, and Management courses.  
-#### I'm still in the 2nd grade so, I'm learning a lot to grow up.
+#### I'm still in the 2nd grade, so I'm learning a lot to grow up.
 
 <br>
 
