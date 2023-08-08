@@ -31,9 +31,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeyeonn&show_icons=true&theme=omni)
 
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saeyeonn&theme=rogue&title_color=f781d8&color=f781d8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 <br>
