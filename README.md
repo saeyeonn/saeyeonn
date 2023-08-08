@@ -34,7 +34,6 @@
 <br>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sy01lim)](https://solved.ac/sy01lim)
 
 </div>
 <br>
