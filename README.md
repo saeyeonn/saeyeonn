@@ -7,7 +7,7 @@
 🖥️ 42 SEOUL 8th Cadet (22.11 ~ 23.08) <br>
 🖥️ Head of IT department of the SeoulTech Total Student Council (23.01 ~ ) <br>
 🖥️ Backend Developer of the SeoulTech Total Student Council App (23.02 ~ ) <br>
-🖥️ Google Developer Student Clubs Seoultech Member (23.08 ~ ) 
+🖥️ Google Developer Student Clubs Seoultech Member (23.08 ~ ) <br>
 
 <br>
 
