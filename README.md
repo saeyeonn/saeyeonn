@@ -1,8 +1,8 @@
 <div align="center">
 
 🐰 About Me 🐰 <br>
-🏫 ITM (IT Management) in SEOULTECH (2021.03 ~ ) <br>
-🏫 Major course : Data Science & Programming & Management <br></br>
+🏫 Information Technology Management in SEOULTECH (2021.03 ~ ) <br>
+🏫 BSC(HONS) Information Technology Management in Northumbria University (2023.03 ~ ) <br>
 
 🖥️ 42 SEOUL 8th Cadet (22.11 ~ 23.08) <br>
 🖥️ Head of IT department of the SeoulTech Total Student Council (23.01 ~ ) <br>
