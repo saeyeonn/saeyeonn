@@ -27,10 +27,6 @@
 <img src=https://user-images.githubusercontent.com/106756920/260235091-b557f771-3147-4ea4-883e-ee68e339cde7.png style="width:40px">
 <a href=https://play.google.com/store/apps/details?id=com.start.STart&hl=en_US><img src=https://user-images.githubusercontent.com/106756920/260235997-947dfe23-19ee-4ff1-b0fd-c49c36de7e03.png style="height:42px"></a>
 <br>
-<br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sy01lim)](https://solved.ac/sy01lim/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeyeonn&show_icons=true&theme=omni)
 </div>
 <br>
