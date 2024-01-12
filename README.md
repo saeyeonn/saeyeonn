@@ -7,13 +7,13 @@
 
 ***
 
-🏫 Degree 🏫 <br>
+##### 🏫 Degree 🏫 <br>
 🏳️ BSC Information Technology Management in SEOULTECH <br>
 🏴 BSc(HONS) Information Technology Management in Northumbria University <br>
 
 ***
 
-📃 Activities 📃 <br>
+##### 📃 Activities 📃 <br>
 🔚 42 SEOUL 8th Cadet <br>
 🔚 Head of IT department of the SeoulTech Total Student Council <br>
 🔚 Backend Developer of the SeoulTech Total Student Council App  <br>
@@ -22,7 +22,7 @@
 
 ***
 
-🎖️ Awards 🎖️ <br>
+##### 🎖️ Awards 🎖️ <br>
 🥉 2022 ITM IT Service Development Contest <br>
 🥉 2022 ITM IT Service Planning Contest <br>
 🥈 2023 ITM IT Service Planning Contest <br>
