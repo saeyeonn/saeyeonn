@@ -8,7 +8,7 @@
 ***
 
 🏫 Degree 🏫 <br>
-🏫 BSC Information Technology Management in SEOULTECH <br>
+🇰🇷 BSC Information Technology Management in SEOULTECH <br>
 🏫 BSc(HONS) Information Technology Management in Northumbria University <br>
 
 ***
