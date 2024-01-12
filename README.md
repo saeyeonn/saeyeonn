@@ -8,24 +8,24 @@
 ***
 
 🏫 Degree 🏫 <br>
-🇰🇷 BSC Information Technology Management in SEOULTECH <br>
-🏫 BSc(HONS) Information Technology Management in Northumbria University <br>
+🏳️ BSC Information Technology Management in SEOULTECH <br>
+🏴 BSc(HONS) Information Technology Management in Northumbria University <br>
 
 ***
 
 📃 Activities 📃 <br>
-📃 42 SEOUL 8th Cadet <br>
-📃 Head of IT department of the SeoulTech Total Student Council <br>
-📃 Backend Developer of the SeoulTech Total Student Council App  <br>
-📃 Google Developer Student Clubs Seoultech Member <br>
-📃 Private AI & Information Security Lab Research Student <br>
+🔚 42 SEOUL 8th Cadet <br>
+🔚 Head of IT department of the SeoulTech Total Student Council <br>
+🔚 Backend Developer of the SeoulTech Total Student Council App  <br>
+💡 Google Developer Student Clubs Seoultech Member <br>
+💡 Private AI & Information Security Lab Research Student <br>
 
 ***
 
 🎖️ Awards 🎖️ <br>
-🎖️ 2022 ITM IT Service Development Contest 🥉<br>
-🎖️ 2022 ITM IT Service Planning Contest 🥉<br>
-🎖️ 2023 ITM IT Service Planning Contest 🥈<br>
+🥉 2022 ITM IT Service Development Contest <br>
+🥉 2022 ITM IT Service Planning Contest <br>
+🥈 2023 ITM IT Service Planning Contest <br>
 
 </div>
 <br>
