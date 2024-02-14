@@ -19,6 +19,7 @@
 🔚 Backend Developer of the SeoulTech Total Student Council App  <br>
 💡 Google Developer Student Clubs Seoultech Member <br>
 💡 Private AI & Information Security Lab Research Student <br>
+💡 ITM Club "Algorithm Panda" President <br>
 
 ***
 
