@@ -6,16 +6,12 @@
 <a href="https://velog.io/@saeyeonn/series"><img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white"></a>
 <a href=mailto:dev.saeyeon@gmail.com><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br>
-
 ***
 
 ### Education
 
 🇰🇷 BSc Information Technology Management in SEOULTECH <br>
 🇬🇧 BSc(HONS) Information Technology Management in Northumbria University <br>
-
-<br>
 
 ***
 
@@ -61,10 +57,6 @@
 </table>
 <br>
 </div>
-
-
-
-<br>
 
 ***
 
