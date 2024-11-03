@@ -47,12 +47,12 @@
 <td>23.01 ~ 23.12</td>
 </tr>
 <tr>
-<td>42 SEOUL 8th Cadet</td>
-<td>22.11 ~ 23.08</td>
+<td>Head of Planning department of ITM Student Council</td>
+<td>23.01 ~ 23.12</td>
 </tr>
 <tr>
-<td>Head of Planning department of ITM Student Council</td>
-<td>22.01 ~ 22.12</td>
+<td>42 SEOUL 8th Cadet</td>
+<td>22.11 ~ 23.08</td>
 </tr>
 </table>
 <br>
