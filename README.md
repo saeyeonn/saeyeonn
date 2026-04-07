@@ -3,7 +3,6 @@
 ### Contact
 
 <a href="https://www.instagram.com/_.cherishable._/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://velog.io/@saeyeonn/series"><img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white"></a>
 <a href=mailto:dev.saeyeon@gmail.com><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ***
@@ -19,8 +18,12 @@
 
 <table border="1px">
 <tr>
-<td>Google Developers Group on Campus : Seoultech 4th Core</td>
-<td>24.07 ~ </td>
+<td>Like Lion Seoultech 13th Backend Officer </td>
+<td>24.07 ~ 25.07</td>
+</tr>
+<tr>
+<td>Google Developers Group on Campus : Seoultech 4th Web Backend Core</td>
+<td>24.07 ~ 25.07</td>
 </tr>
 <tr>
 <td>2024 Code Club SW Education Volunteer</td>
