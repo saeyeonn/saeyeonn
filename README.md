@@ -19,7 +19,7 @@
 <table border="1px">
 <tr>
 <td>Like Lion Seoultech 13th Backend Officer </td>
-<td>24.07 ~ 25.07</td>
+<td>25.01 ~ 25.12</td>
 </tr>
 <tr>
 <td>Google Developers Group on Campus : Seoultech 4th Web Backend Core</td>
@@ -52,6 +52,10 @@
 <tr>
 <td>Head of Planning department of ITM Student Council</td>
 <td>23.01 ~ 23.12</td>
+</tr>
+<tr>
+<td>42 SEOUL 8th Cadet</td>
+<td>22.11 ~ 23.08</td>
 </tr>
 <tr>
 <td>42 SEOUL 8th Cadet</td>
